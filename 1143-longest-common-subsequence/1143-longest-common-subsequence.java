@@ -5,10 +5,7 @@ class Solution {
 
         int[] curr= new int[m+1];
         int[] prev= new int[m+1];
-
-        Arrays.fill(prev, 0);
-        curr[0]=0;
-
+        
         for(int i=1;i<=n;i++){
             for(int j=1;j<=m;j++){
                 int take=0;

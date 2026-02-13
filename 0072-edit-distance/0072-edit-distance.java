@@ -34,10 +34,11 @@ class Solution {
 
         if (word1.charAt(i) == word2.charAt(j)) {
             result = sol(i - 1, j - 1, word1, word2, dp);
+        }else{
+            result = Math.min(result, sol(i - 1, j - 1, word1, word2, dp) + 1);
+            result = Math.min(result, sol(i - 1, j, word1, word2, dp) + 1);
+            result = Math.min(result, sol(i, j-1, word1, word2, dp) + 1);
         }
-        result = Math.min(result, sol(i - 1, j - 1, word1, word2, dp) + 1);
-        result = Math.min(result, sol(i - 1, j, word1, word2, dp) + 1);
-        result = Math.min(result, sol(i, j-1, word1, word2, dp) + 1);
 
         dp[i][j] = result;
 

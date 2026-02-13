@@ -14,10 +14,6 @@ class Solution {
 
     private int sol(int i, int j, String word1, String word2, int[][] dp) {
 
-        if (i < 0 && j < 0) {
-            return 0;
-        }
-
         if (i < 0) {
             return j + 1;
         }

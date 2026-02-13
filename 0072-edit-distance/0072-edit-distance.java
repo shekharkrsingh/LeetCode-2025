@@ -4,7 +4,12 @@ class Solution {
         int m = word2.length();
 
         if(n<m){
-            return minDistance(word2, word1);
+            String temp=word1;
+            word1=word2;
+            word2=temp;
+            int t=n;
+            n=m;
+            m=t;
         }
 
         int[] prev = new int[m + 1];

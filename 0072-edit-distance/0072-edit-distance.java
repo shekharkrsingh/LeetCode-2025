@@ -3,32 +3,33 @@ class Solution {
         int n = word1.length();
         int m = word2.length();
 
-        int[][] dp = new int[n + 1][m + 1];
+        int[] prev = new int[m + 1];
+        int[] curr = new int[m + 1];
 
-        for(int i=0;i<=n;i++){
-            dp[i][0]=i;
+        for (int i = 0; i <= m; i++) {
+            prev[i] = i;
         }
 
-        for(int j=0;j<=m;j++){
-            dp[0][j]=j;
-        }
-
-        for(int i=1;i<=n;i++){
-            for(int j=1;j<=m;j++){
-                int result=Integer.MAX_VALUE;
-                if(word1.charAt(i-1)==word2.charAt(j-1)){
-                    result=dp[i-1][j-1];
-                }else{
-                    result=Math.min(result, dp[i-1][j-1]+1);
-                    result=Math.min(result, dp[i][j-1]+1);
-                    result=Math.min(result, dp[i-1][j]+1);
+        for (int i = 1; i <= n; i++) {
+            curr[0]=i;
+            for (int j = 1; j <= m; j++) {
+                int result = Integer.MAX_VALUE;
+                if (word1.charAt(i - 1) == word2.charAt(j - 1)) {
+                    result = prev[j - 1];
+                } else {
+                    result = Math.min(result, prev[j - 1] + 1);
+                    result = Math.min(result, prev[j] + 1);
+                    result = Math.min(result, curr[j - 1] + 1);
                 }
 
-                dp[i][j]=result;
+                curr[j] = result;
+            }
+            for (int j = 0; j <= m; j++) {
+                prev[j] = curr[j];
             }
         }
 
-        return dp[n][m];
+        return prev[m];
     }
 
     private int sol(int i, int j, String word1, String word2, int[][] dp) {
@@ -49,10 +50,10 @@ class Solution {
 
         if (word1.charAt(i) == word2.charAt(j)) {
             result = sol(i - 1, j - 1, word1, word2, dp);
-        }else{
+        } else {
             result = Math.min(result, sol(i - 1, j - 1, word1, word2, dp) + 1);
             result = Math.min(result, sol(i - 1, j, word1, word2, dp) + 1);
-            result = Math.min(result, sol(i, j-1, word1, word2, dp) + 1);
+            result = Math.min(result, sol(i, j - 1, word1, word2, dp) + 1);
         }
 
         dp[i][j] = result;

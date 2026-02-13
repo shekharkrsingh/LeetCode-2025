@@ -3,6 +3,10 @@ class Solution {
         int n = word1.length();
         int m = word2.length();
 
+        if(n<m){
+            return minDistance(word2, word1);
+        }
+
         int[] prev = new int[m + 1];
         int[] curr = new int[m + 1];
 

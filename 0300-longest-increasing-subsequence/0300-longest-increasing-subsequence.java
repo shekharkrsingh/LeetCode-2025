@@ -3,11 +3,23 @@ class Solution {
         int n=nums.length;
         int[][] dp=new int[n+1][n+1];
 
-        for(int i=0;i<=n;i++){
-            Arrays.fill(dp[i], -1);
+        
+        for (int i = 1; i <= n; i++) {
+
+            for (int j = -1; j < n; j++) {
+
+                int notTake = dp[i - 1][j + 1];
+                int take = 0;
+
+                if (j == -1 || nums[i - 1] < nums[j]) {
+                    take = 1 + dp[i - 1][i];
+                }
+
+                dp[i][j + 1] = Math.max(take, notTake);
+            }
         }
 
-        return sol(n-1, -1, nums, dp);
+        return dp[n][0];
     }
 
     private int sol(int i, int j, int[] nums, int[][]dp){

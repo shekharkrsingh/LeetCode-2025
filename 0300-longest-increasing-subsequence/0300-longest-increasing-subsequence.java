@@ -5,7 +5,7 @@ class Solution {
         int[][] dp = new int[n + 1][n + 1];
 
         for (int i = n - 1; i >= 0; i--) {
-            for (int j = i - 1; j >= -1; j--) {
+            for (int j = n-1; j >= -1; j--) {
                 int take = 0;
                 int notTake = dp[i + 1][j + 1];
                 if (j == -1 || nums[i] > nums[j]) {
@@ -16,6 +16,9 @@ class Solution {
             }
         }
 
+        // for(int i=0;i<n+1; i++){
+        //     System.out.println(Arrays.toString(dp[i]));
+        // }
         return dp[0][0];
 
     }

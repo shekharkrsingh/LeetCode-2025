@@ -4,20 +4,21 @@ class Solution {
 
         Arrays.sort(words, (word1, word2) -> Integer.compare(word1.length(), word2.length()));
 
-        int[][] dp = new int[n + 1][n + 1];
+        int[] dp = new int[n];
 
-        for (int i = n - 1; i >= 0; i--) {
-            for (int j = i - 1; j >= -1; j--) {
-                int take = 0;
-                if (j == -1 || isPredecessor(words[i], words[j])) {
-                    take = dp[i + 1][i + 1] + 1;
+        Arrays.fill(dp, 1);
+
+        int maxVal = 1;
+
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j < i; j++) {
+                if (isPredecessor(words[i], words[j])) {
+                    dp[i] = Math.max(dp[j] + 1, dp[i]);
+                    maxVal = Math.max(maxVal, dp[i]);
                 }
-                int notTake = dp[i + 1][j + 1];
-                dp[i][j + 1] = Math.max(take, notTake);
             }
         }
-
-        return dp[0][0];
+        return maxVal;
     }
 
     private int sol(int i, int j, int n, String[] words, int[][] dp) {

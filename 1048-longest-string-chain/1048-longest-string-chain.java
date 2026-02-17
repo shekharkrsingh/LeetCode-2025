@@ -6,11 +6,18 @@ class Solution {
 
         int[][] dp = new int[n + 1][n + 1];
 
-        for (int i = 0; i <= n; i++) {
-            Arrays.fill(dp[i], -1);
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = i - 1; j >= -1; j--) {
+                int take = 0;
+                if (j == -1 || isPredecessor(words[i], words[j])) {
+                    take = dp[i + 1][i + 1] + 1;
+                }
+                int notTake = dp[i + 1][j + 1];
+                dp[i][j + 1] = Math.max(take, notTake);
+            }
         }
 
-        return sol(0, -1, n, words, dp);
+        return dp[0][0];
     }
 
     private int sol(int i, int j, int n, String[] words, int[][] dp) {

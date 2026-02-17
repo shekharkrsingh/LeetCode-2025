@@ -1,22 +1,22 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
-        List<Integer> list = new ArrayList<>();
+        int[] dp = new int[n];
+        Arrays.fill(dp, 1);
+
+        int maxVal = 1;
 
         for (int i = 0; i < n; i++) {
-            int idx = -1;
-            for (int j = 0; j < list.size(); j++) {
-                if (list.get(j) >= nums[i]) {
-                    idx = j;
-                    break;
+            for (int j = 0; j < i; j++) {
+                int take = 0;
+                if (nums[j] < nums[i]) {
+                    take = dp[j] + 1;
                 }
-            }
-            if (idx != -1) {
-                list.set(idx, nums[i]);
-            } else {
-                list.add(nums[i]);
+                dp[i] = Math.max(take, dp[i]);
+                maxVal = Math.max(maxVal, dp[i]);
             }
         }
-        return list.size();
+
+        return maxVal;
     }
 }

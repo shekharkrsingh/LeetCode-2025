@@ -25,6 +25,7 @@ class Solution {
             for (int k = 0; k < 4; k++) {
                 if (i + idx1[k] >= 0 && i + idx1[k] < n && j + idx2[k] >= 0 && j + idx2[k] < m
                         && image[i + idx1[k]][j + idx2[k]] == start) {
+                    image[i + idx1[k]][j + idx2[k]] = color;
                     q.offer(new int[] { i + idx1[k], j + idx2[k] });
                 }
             }

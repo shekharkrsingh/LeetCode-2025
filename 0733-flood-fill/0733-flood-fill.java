@@ -8,9 +8,10 @@ class Solution {
         int m = image[0].length;
         Queue<int[]> q = new LinkedList<>();
         q.offer(new int[] { sr, sc });
-        if (image[sr][sc] != color){
-            bfs(image, color, image[sr][sc], q, n, m);
-            image[sr][sc]=color;
+        if (image[sr][sc] != color) {
+            int start = image[sr][sc];
+            image[sr][sc] = color;
+            bfs(image, color, start, q, n, m);
         }
         return image;
     }

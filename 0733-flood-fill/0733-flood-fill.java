@@ -20,7 +20,6 @@ class Solution {
             int i = node[0];
             int j = node[1];
 
-
             image[i][j] = color;
 
             for (int k = 0; k < 4; k++) {

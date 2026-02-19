@@ -8,8 +8,10 @@ class Solution {
         int m = image[0].length;
         Queue<int[]> q = new LinkedList<>();
         q.offer(new int[] { sr, sc });
-        if (image[sr][sc] != color)
+        if (image[sr][sc] != color){
             bfs(image, color, image[sr][sc], q, n, m);
+            image[sr][sc]=color;
+        }
         return image;
     }
 
@@ -19,8 +21,6 @@ class Solution {
 
             int i = node[0];
             int j = node[1];
-
-            image[i][j] = color;
 
             for (int k = 0; k < 4; k++) {
                 if (i + idx1[k] >= 0 && i + idx1[k] < n && j + idx2[k] >= 0 && j + idx2[k] < m

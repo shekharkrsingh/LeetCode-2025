@@ -14,6 +14,10 @@ class Solution {
         int[][] dis = new int[n][n];
         Queue<int[]> q = new LinkedList<>();
 
+        for(int i=0;i<n;i++){
+            Arrays.fill(dis[i], -1);
+        }
+
         dis[0][0] = 1;
         visited[0][0]=true;
 

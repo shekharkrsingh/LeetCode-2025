@@ -32,12 +32,8 @@ class Solution {
         }
 
         boolean left = treeTrav(node1.left, node2.right);
-        if (left == false)
-            return left;
         boolean right = treeTrav(node1.right, node2.left);
-        if (right == false)
-            return right;
 
-        return true;
+        return left && right;
     }
 }

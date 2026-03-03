@@ -27,7 +27,6 @@ class Solution {
             return true;
         }
         if ((node1 == null && node2 != null) || (node1 != null && node2 == null) || node1.val != node2.val) {
-            System.out.println("dfdf");
             return false;
         }
 

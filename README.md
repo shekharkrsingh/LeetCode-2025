@@ -10,13 +10,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0101-symmetric-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0101-symmetric-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0101-symmetric-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->

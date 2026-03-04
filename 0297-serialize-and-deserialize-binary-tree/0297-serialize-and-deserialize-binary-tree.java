@@ -11,6 +11,9 @@ public class Codec {
 
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
+        if(root==null){
+            return "[]";
+        }
         Queue<TreeNode> q = new LinkedList<>();
         List<Integer> list = new ArrayList<>();
         q.offer(root);

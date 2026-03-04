@@ -11,24 +11,31 @@ public class Codec {
 
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
-        if(root==null){
-            return "[]";
-        }
+        if (root == null) return "[]";
+
         Queue<TreeNode> q = new LinkedList<>();
-        List<Integer> list = new ArrayList<>();
+        List<String> list = new ArrayList<>();
         q.offer(root);
+
         while (!q.isEmpty()) {
             TreeNode node = q.poll();
-            if (node != null) {
-                list.add(node.val);
+
+            if (node == null) {
+                list.add("null");
+            } else {
+                list.add(String.valueOf(node.val));
                 q.offer(node.left);
                 q.offer(node.right);
-            } else {
-                list.add(null);
             }
         }
-        System.out.println(list.toString());
-        return list.toString();
+
+        // Remove trailing nulls
+        int i = list.size() - 1;
+        while (i >= 0 && list.get(i).equals("null")) {
+            list.remove(i--);
+        }
+
+        return "[" + String.join(", ", list) + "]";
     }
 
     // Decodes your encoded data to tree.

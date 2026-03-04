@@ -16,11 +16,16 @@
 class Solution {
     private int idx=0;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
+        
         int n=preorder.length;
-        return buildTree(preorder, inorder, 0, n-1);
+        Map<Integer, Integer> map=new HashMap<>();
+        for(int i=0;i<n;i++){
+            map.put(inorder[i], i);
+        }
+        return buildTree(preorder, inorder, 0, n-1, map);
     }
 
-    private TreeNode buildTree (int[] preorder, int[] inorder, int start, int end){
+    private TreeNode buildTree (int[] preorder, int[] inorder, int start, int end, Map<Integer, Integer> map){
         if(start>end ){
             return null;
         }
@@ -32,15 +37,22 @@ class Solution {
         }
 
         TreeNode node=null;
-        for(int i=start; i<=end; i++){
-            if(preorder[idx]==inorder[i]){
-                node= new TreeNode(preorder[idx]);
-                idx++;
-                node.left=buildTree(preorder, inorder, start, i-1);
-                node.right=buildTree(preorder, inorder, i+1, end);
-                break;
-            }
+        int nodeIdx=map.get(preorder[idx]);
+        if(nodeIdx>=start && nodeIdx<=end){
+            node= new TreeNode(preorder[idx]);
+            idx++;
+            node.left=buildTree(preorder, inorder, start, nodeIdx-1, map);
+            node.right=buildTree(preorder, inorder, nodeIdx+1, end, map);
         }
+        // for(int i=start; i<=end; i++){
+        //     if(preorder[idx]==inorder[i]){
+        //         node= new TreeNode(preorder[idx]);
+        //         idx++;
+        //         node.left=buildTree(preorder, inorder, start, i-1);
+        //         node.right=buildTree(preorder, inorder, i+1, end);
+        //         break;
+        //     }
+        // }
 
         return node;
 

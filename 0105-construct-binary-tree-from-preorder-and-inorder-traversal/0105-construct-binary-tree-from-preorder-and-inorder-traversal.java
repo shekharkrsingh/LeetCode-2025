@@ -44,15 +44,6 @@ class Solution {
             node.left=buildTree(preorder, inorder, start, nodeIdx-1, map);
             node.right=buildTree(preorder, inorder, nodeIdx+1, end, map);
         }
-        // for(int i=start; i<=end; i++){
-        //     if(preorder[idx]==inorder[i]){
-        //         node= new TreeNode(preorder[idx]);
-        //         idx++;
-        //         node.left=buildTree(preorder, inorder, start, i-1);
-        //         node.right=buildTree(preorder, inorder, i+1, end);
-        //         break;
-        //     }
-        // }
 
         return node;
 

@@ -1,13 +1,16 @@
 class Solution {
     public int mySqrt(int x) {
-        int lb = 0;
-        int start = 0;
-        int end = x / 2;
+        if(x==1 || x==0){
+            return x;
+        }
+        long lb = 0;
+        long start = 0;
+        long end = x;
         while (start <= end) {
-            int mid = start + (end - start) / 2;
-            int product = mid * mid;
+            long mid = start + (end - start) / 2;
+            long product = mid * mid;
             if (product == x) {
-                return mid;
+                return (int)mid;
             }
             if (product > x) {
                 end = mid - 1;
@@ -16,6 +19,6 @@ class Solution {
                 start = mid + 1;
             }
         }
-        return lb;
+        return (int)lb;
     }
 }

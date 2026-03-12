@@ -11,11 +11,9 @@ class Solution {
             int mid = start + (end - start) / 2;
             int cnt = 0;
             for (int i = 0; i < n; i++) {
-                if (piles[i] != 0) {
-                    cnt += piles[i] / mid;
-                    if (piles[i] % mid != 0) {
-                        cnt++;
-                    }
+                cnt += piles[i] / mid;
+                if (piles[i] % mid != 0) {
+                    cnt++;
                 }
             }
             if (cnt <= h) {
@@ -28,3 +26,15 @@ class Solution {
         return max;
     }
 }
+// Current:
+// Binary Search
+// /
+// Greedy
+// Suggested:
+// Binary Search
+// /
+// Greedy
+// Key Idea:
+// Using binary search on the answer range to find the minimum eating speed satisfying the time constraint.
+// Consider:
+// Since you nailed the logic, could you optimize the ceiling division calculation to avoid the explicit if-check inside the loop?

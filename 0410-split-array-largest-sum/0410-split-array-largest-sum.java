@@ -4,6 +4,7 @@ class Solution {
         int start = 0;
         int end = 0;
         for (int num : nums) {
+            start=Math.max(start, num);
             end += num;
         }
         return binarySearch(nums, k, start, end);

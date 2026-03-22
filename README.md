@@ -64,12 +64,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0001-two-sum/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0045-jump-game-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0055-jump-game/) | Medium |

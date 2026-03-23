@@ -11,7 +11,6 @@ class Solution {
                 i++;
             }
         }
-        System.out.println (Arrays.toString(nums));
         for(i=0;i<n;i++){
             if(nums[i]!=i+1){
                 return i+1;

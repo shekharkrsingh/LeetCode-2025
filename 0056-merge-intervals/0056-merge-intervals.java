@@ -13,13 +13,6 @@ class Solution {
             }
         }
 
-        int len = list.size();
-
-        int[][] res = new int[len][2];
-        for (int i = 0; i < len; i++) {
-            res[i] = list.get(i);
-        }
-
-        return res;
+        return list.toArray(new int[list.size()][]);
     }
 }

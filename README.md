@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Divide and Conquer
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [1980-find-unique-binary-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,4 +187,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->

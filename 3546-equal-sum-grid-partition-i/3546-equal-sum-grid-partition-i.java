@@ -23,14 +23,11 @@ class Solution {
 
         long check = totalSum / 2;
 
-        System.out.println(check);
-
         for (int i = 0; i < n; i++) {
             if (i != 0)
                 h[i] += h[i - 1];
             if (h[i] == check)
                 return true;
-            System.out.println(h[i]);
         }
 
         for (int i = 0; i < m; i++) {

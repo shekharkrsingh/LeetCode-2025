@@ -6,7 +6,6 @@ class Solution {
         int cnt=0;
         int max=0;
         for(int i=0;i<n;i++){
-            System.out.println(q.size());
             if(nums[i]==0 && cnt<k){
                 cnt++;
                 q.offer(i);

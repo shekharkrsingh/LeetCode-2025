@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Matrix
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |

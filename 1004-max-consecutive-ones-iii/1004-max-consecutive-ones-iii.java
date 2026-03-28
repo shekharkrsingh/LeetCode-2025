@@ -6,11 +6,13 @@ class Solution {
         int cnt = 0;
 
         for (int i = 0; i < n; i++) {
-            if (nums[i] == 0 && cnt < k) {
+            if (nums[i] == 0) {
                 cnt++;
-            } else if (nums[i] == 0 && cnt == k) {
-                while (nums[j] != 0)
-                    j++;
+            }
+            if (cnt > k) {
+                if (nums[j] == 0) {
+                    cnt--;
+                }
                 j++;
             }
 

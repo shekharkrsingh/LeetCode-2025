@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0135-candy/) | Hard |
 | [0162-find-peak-element](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0455-assign-cookies/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |

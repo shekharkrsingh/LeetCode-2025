@@ -20,6 +20,9 @@ class Solution {
             if (sum - max > k) {
                 char ch2 = s.charAt(j);
                 map.put(ch2, map.get(ch2) - 1);
+                if(map.get(ch2)==0){
+                    map.remove(ch2);
+                }
                 j++;
             }
 

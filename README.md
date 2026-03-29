@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0455-assign-cookies/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Counting
 | Problem Name | Difficulty |

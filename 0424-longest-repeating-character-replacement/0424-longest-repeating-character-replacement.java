@@ -1,7 +1,9 @@
 class Solution {
     public int characterReplacement(String s, int k) {
         int[] freq = new int[26];
-        int j = 0, maxFreq = 0, res = 0;
+        int j = 0;
+        int maxFreq = 0;
+        int res = 0;
 
         for (int i = 0; i < s.length(); i++) {
             int idx = s.charAt(i) - 'A';

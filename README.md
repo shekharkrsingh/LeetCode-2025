@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0041-first-missing-positive/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0057-insert-interval/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0075-sort-colors/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2906-construct-product-matrix/) | Medium |

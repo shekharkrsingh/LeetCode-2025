@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |

@@ -14,15 +14,6 @@ class Solution {
                 list.add(new int[] { intervals[i][0], intervals[i][1] });
             }
         }
-        for (int i = 0; i < list.size(); i++) {
-            System.out.println(Arrays.toString(list.get(i)));
-        }
-
-        int[][] res = new int[list.size()][2];
-        for (int i = 0; i < list.size(); i++) {
-            res[i] = list.get(i);
-        }
-
-        return res;
+        return list.toArray(new int[list.size()][2]);
     }
 }

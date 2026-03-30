@@ -49,8 +49,6 @@ class Solution {
         }
 
         List<Integer> list = new ArrayList<>();
-        System.out.println(cnt1 +" "+ cnt2);
-        System.out.println(a +" "+ b);
         if (cnt1 > n / 3) {
             list.add(a);
         }

@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0057-insert-interval/) | Medium |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Counting

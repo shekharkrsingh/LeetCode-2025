@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0189-rotate-array/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1901-find-a-peak-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |

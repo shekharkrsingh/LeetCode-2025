@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0118-pascals-triangle/) | Easy |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0455-assign-cookies/) | Easy |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0229-majority-element-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0435-non-overlapping-intervals/) | Medium |

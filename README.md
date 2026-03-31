@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0076-minimum-window-substring/) | Hard |
+| [0151-reverse-words-in-a-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0088-merge-sorted-array/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0455-assign-cookies/) | Easy |

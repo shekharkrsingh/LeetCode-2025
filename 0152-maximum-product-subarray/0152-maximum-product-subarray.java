@@ -1,58 +1,23 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int n = nums.length;
-        int start = 0;
-        int max = Integer.MIN_VALUE;
-        boolean zCnt = false;
-        for (int i = 0; i < n; i++) {
-            if (nums[i] == 0) {
-                zCnt = true;
-                max = Math.max(max, 0);
-                max = Math.max(subArray(nums, n, start, i - 1), max);
-                start = i + 1;
-            }
-        }
-        if (start < n)
-            max = Math.max(subArray(nums, n, start, n - 1), max);
+        int maxProd = nums[0];
+        int minProd = nums[0];
+        int ans = nums[0];
 
-        return max;
-
-    }
-
-    private int subArray(int[] nums, int n, int start, int end) {
-        if (start >= end) {
-            return nums[start];
-        }
-
-        int nCnt = 0;
-        int mul = 1;
-        for (int i = start; i <= end; i++) {
-            mul *= nums[i];
+        for (int i = 1; i < nums.length; i++) {
+            
             if (nums[i] < 0) {
-                nCnt++;
+                int temp = maxProd;
+                maxProd = minProd;
+                minProd = temp;
             }
+
+            maxProd = Math.max(nums[i], maxProd * nums[i]);
+            minProd = Math.min(nums[i], minProd * nums[i]);
+
+            ans = Math.max(ans, maxProd);
         }
 
-        if (nCnt % 2 == 0) {
-            return mul;
-        }
-
-        int val = mul;
-        int max = Integer.MIN_VALUE;
-        for (int i = start; i <= end; i++) {
-            val /= nums[i];
-            if (nums[i] < 0) {
-                break;
-            }
-        }
-        max = val;
-        val = mul;
-        for (int i = end; i >= start; i--) {
-            val /= nums[i];
-            if (nums[i] < 0) {
-                break;
-            }
-        }
-        return Math.max(val, max);
+        return ans;
     }
 }

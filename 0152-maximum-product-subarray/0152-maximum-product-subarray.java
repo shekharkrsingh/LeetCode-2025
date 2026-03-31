@@ -12,15 +12,14 @@ class Solution {
                 start = i + 1;
             }
         }
-        if(start<n)
-        max = Math.max(subArray(nums, n, start, n - 1), max);
+        if (start < n)
+            max = Math.max(subArray(nums, n, start, n - 1), max);
 
         return max;
 
     }
 
     private int subArray(int[] nums, int n, int start, int end) {
-        System.out.println(start + " " + end);
         if (start >= end) {
             return nums[start];
         }

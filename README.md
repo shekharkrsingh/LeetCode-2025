@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0229-majority-element-ii/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0076-minimum-window-substring/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0205-isomorphic-strings/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1021-remove-outermost-parentheses/) | Easy |

@@ -11,35 +11,32 @@
 class Solution {
     public ListNode oddEvenList(ListNode head) {
         ListNode even = new ListNode(0);
-        ListNode odd= new ListNode(0);
-        ListNode oStart=odd;
-        ListNode eStart=even;
-        ListNode node= head;
+        ListNode odd = new ListNode(0);
+        ListNode oStart = odd;
+        ListNode eStart = even;
+        ListNode node = head;
 
-        boolean flag=true;
+        boolean flag = true;
 
-        while(node!=null){
-            if(flag){
-                even.next=node;
-                node=node.next;
-                even=even.next;
-                even.next=null;
-            }else{
-                odd.next=node;
-                node=node.next;
-                odd=odd.next;
-                odd.next=null;
+        while (node != null) {
+            if (flag) {
+                even.next = node;
+                node = node.next;
+                even = even.next;
+                even.next = null;
+            } else {
+                odd.next = node;
+                node = node.next;
+                odd = odd.next;
+                odd.next = null;
             }
 
-            flag=!flag;
+            flag = !flag;
         }
 
-        even.next=oStart.next;
-        
+        even.next = oStart.next;
 
         return eStart.next;
-
-
 
     }
 }

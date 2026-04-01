@@ -19,7 +19,6 @@ class Solution {
             cnt++;
             node = node.next;
         }
-        System.out.println(cnt);
         cnt /= 2;
         node = head;
         while (cnt != 1) {

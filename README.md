@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0229-majority-element-ii/) | Medium |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Stack
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0088-merge-sorted-array/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0283-move-zeroes/) | Easy |

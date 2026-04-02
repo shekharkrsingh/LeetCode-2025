@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0189-rotate-array/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1922-count-good-numbers](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1922-count-good-numbers/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Greedy
@@ -339,4 +340,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0206-reverse-linked-list/) | Easy |
+| [1922-count-good-numbers](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1922-count-good-numbers/) | Medium |
 <!---LeetCode Topics End-->

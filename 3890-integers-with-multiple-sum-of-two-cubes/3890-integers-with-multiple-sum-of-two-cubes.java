@@ -3,7 +3,6 @@ class Solution {
         int ul = (int) Math.cbrt(n);
         Map<Integer, Integer> map = new HashMap<>();
         List<Integer> result = new ArrayList<>();
-        System.out.println(ul);
         for (int i = 0; i <= ul; i++) {
             for (int j = i + 1; j <= ul; j++) {
                 int cal = (int) (Math.pow(i, 3) + Math.pow(j, 3));

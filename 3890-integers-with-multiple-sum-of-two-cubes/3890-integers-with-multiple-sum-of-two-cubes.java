@@ -5,7 +5,7 @@ class Solution {
         List<Integer> result = new ArrayList<>();
         for (int i = 0; i <= ul; i++) {
             for (int j = i + 1; j <= ul; j++) {
-                int cal = (int) (Math.pow(i, 3) + Math.pow(j, 3));
+                int cal = i * i * i + j * j * j;
                 if (cal <= n)
                     map.put(cal, map.getOrDefault(cal, 0) + 1);
             }

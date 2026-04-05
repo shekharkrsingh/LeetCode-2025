@@ -22,7 +22,6 @@ class Solution {
 
             result += Math.abs(cnt1 - cnt2);
         }
-        System.out.println(result);
         for (int i = 0; i < 5; i++) {
             char ch = (char) (i + '0');
             char rev = (char) ('0' + (9 - i));

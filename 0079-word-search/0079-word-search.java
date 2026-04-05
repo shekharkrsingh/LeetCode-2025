@@ -23,7 +23,7 @@ class Solution {
 
     private boolean dfs(char[][] board, String word, int idx, int i, int j, boolean[][] visited) {
         if (idx == word.length()) {
-            return true; // All characters matched
+            return true;
         }
 
         int n = board.length;

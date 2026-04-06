@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0079-word-search/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0144-binary-tree-preorder-traversal/) | Easy |

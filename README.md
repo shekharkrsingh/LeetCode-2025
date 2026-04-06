@@ -341,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0231-power-of-two/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |

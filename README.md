@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0231-power-of-two/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1922-count-good-numbers/) | Medium |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0231-power-of-two/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -353,5 +355,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0231-power-of-two/) | Easy |
 | [1922-count-good-numbers](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1922-count-good-numbers/) | Medium |
 <!---LeetCode Topics End-->

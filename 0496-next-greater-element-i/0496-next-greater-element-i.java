@@ -3,7 +3,7 @@ class Solution {
         int n = nums2.length;
         int m = nums1.length;
         Map<Integer, Integer> map = new HashMap<>();
-        Stack<Integer> st = new Stack<>();
+        Deque<Integer> st = new ArrayDeque<>();
 
         for (int i = n - 1; i >= 0; i--) {
             while (!st.isEmpty() && st.peek() <= nums2[i]) {

@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [2069-walking-robot-simulation-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0054-spiral-matrix/) | Medium |
+| [2069-walking-robot-simulation-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Counting

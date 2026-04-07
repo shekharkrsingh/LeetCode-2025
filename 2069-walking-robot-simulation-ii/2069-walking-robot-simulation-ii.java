@@ -15,11 +15,11 @@ class Robot {
     }
     
     public void step(int num) {
-        int perimeter = 2 * (height + width);
-        if (num >= perimeter) {
-            num = num % perimeter;
+        int p = 2 * (height + width);
+        if (num >= p) {
+            num = num % p;
             if (num == 0) {
-                num = perimeter; 
+                num = p; 
             }
         }
         if(x==width && dir=="East"){

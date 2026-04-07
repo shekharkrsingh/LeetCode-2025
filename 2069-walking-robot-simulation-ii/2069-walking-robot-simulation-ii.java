@@ -2,12 +2,9 @@ class Robot {
 
     private Integer width;
     private Integer height;
-
     private Integer x = 0;
     private Integer y = 0;
-
     private String dir;
-
     public Robot(int width, int height) {
         this.width = width - 1;
         this.height = height - 1;
@@ -56,9 +53,9 @@ class Robot {
 
     }
 
-    public int[] getPos() return new int[] { x, y };
+    public int[] getPos(){ return new int[] { x, y };}
 
-    public String getDir() return this.dir;
+    public String getDir() {return this.dir;}
 }
 
 /**

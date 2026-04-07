@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0055-jump-game/) | Medium |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0041-first-missing-positive](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0053-maximum-subarray/) | Medium |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -285,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0088-merge-sorted-array/) | Easy |
@@ -376,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->

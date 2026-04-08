@@ -7,12 +7,9 @@ class Solution {
 
         int xor = 0;
 
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> (Integer.compare(a[0], b[0])));
-        for (int i = 0; i < m; i++) {
-            pq.offer(queries[i]);
-        }
-        while (!pq.isEmpty()) {
-            int[] arr = pq.poll();
+        
+        for(int i=0;i<m;i++) {
+            int[] arr = queries[i];
             int l = arr[0];
             int r = arr[1];
             int k = arr[2];

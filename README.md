@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0205-isomorphic-strings/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0402-remove-k-digits](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0796-rotate-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0402-remove-k-digits](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0735-asteroid-collision/) | Medium |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0135-candy/) | Hard |
+| [0402-remove-k-digits](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0455-assign-cookies/) | Easy |
@@ -390,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0042-trapping-rain-water/) | Hard |
+| [0402-remove-k-digits](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0907-sum-of-subarray-minimums/) | Medium |

@@ -6,6 +6,11 @@ class Solution {
         while (idx != n) {
             char ch = num.charAt(idx);
             if (st.isEmpty() || k == 0) {
+                if(st.isEmpty() && ch=='0'){
+                    idx++;
+                continue;
+
+                }
                 st.push(ch);
                 idx++;
             } else {
@@ -23,9 +28,9 @@ class Solution {
             k--;
         }
 
-        while (!st.isEmpty() && st.peekLast() == '0') {
-            st.pollLast();
-        }
+        // while (!st.isEmpty() && st.peekLast() == '0') {
+        //     st.pollLast();
+        // }
 
         StringBuilder res = new StringBuilder();
         while (!st.isEmpty()) {

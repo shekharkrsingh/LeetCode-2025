@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1901-find-a-peak-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |

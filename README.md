@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0055-jump-game/) | Medium |
+| [0085-maximal-rectangle](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -293,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0079-word-search/) | Medium |
+| [0085-maximal-rectangle](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0085-maximal-rectangle/) | Hard |
 | [1901-find-a-peak-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -400,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0085-maximal-rectangle/) | Hard |
 | [0402-remove-k-digits](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0503-next-greater-element-ii/) | Medium |

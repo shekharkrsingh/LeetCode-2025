@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0079-word-search/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0503-next-greater-element-ii/) | Medium |

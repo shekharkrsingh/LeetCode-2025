@@ -2,54 +2,23 @@ class Solution {
     public int largestRectangleArea(int[] heights) {
         int n = heights.length;
         Deque<Integer> st = new ArrayDeque<>();
-        int[] pre = new int[n];
-        int[] post = new int[n];
+        int maxArea = 0;
 
-        int res = 0;
+        for (int i = 0; i <= n; i++) {
+            int curr = (i == n) ? 0 : heights[i];
 
-        for (int i = 0; i < n; i++) {
-            while (!st.isEmpty() && heights[st.peek()] >= heights[i]) {
-                st.poll();
+            while (!st.isEmpty() && curr < heights[st.peek()]) {
+                int height = heights[st.pop()];
+                int right = i;
+                int left = st.isEmpty() ? -1 : st.peek();
+
+                int w = right - left - 1;
+                maxArea = Math.max(maxArea, height * w);
             }
-
-            // if (st.isEmpty()) {
-            //     pre[i] = -1;
-            // } else {
-            //     pre[i] = st.peek();
-            // }
-
-            if(!st.isEmpty()){
-                res=Math.max(res, (i-st.peek())*heights[i]);
-            }else{
-                System.out.println("ddfdfdfd");
-                res=Math.max(res, i*heights[i]);
-            }
-
 
             st.push(i);
         }
 
-        // st.clear();
-
-        // for (int i = n - 1; i >= 0; i--) {
-        //     while (!st.isEmpty() && heights[st.peek()] >= heights[i]) {
-        //         st.poll();
-        //     }
-
-        //     if (st.isEmpty()) {
-        //         post[i] = n;
-        //     } else {
-        //         post[i] = st.peek();
-        //     }
-
-        //     st.push(i);
-        // }
-
-        // for (int i = 0; i < n; i++) {
-        //     res = Math.max(res, (post[i] - pre[i] - 1) * heights[i]);
-        // }
-
-        return res;
-
+        return maxArea;
     }
 }

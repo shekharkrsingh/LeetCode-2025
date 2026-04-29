@@ -4,9 +4,11 @@ class Solution {
         int[] dp= new int[n+1];
         Arrays.fill(dp, -1);
         dp[0]=nums[0];
-        dp[1]=nums[1];
-        for(int i=2;i<n;i++){
-            int take=dp[i-2]+nums[i];
+        for(int i=1;i<n;i++){
+            int take= nums[i];
+            if(i>1){
+                take=dp[i-2]+nums[i];
+            }
             int notTake=dp[i-1];
 
             dp[i]=Math.max(take, notTake);

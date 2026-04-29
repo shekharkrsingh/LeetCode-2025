@@ -17,8 +17,8 @@ class Solution {
         int take=sol(n-2, nums, dp)+nums[n];
         int notTake=sol(n-1, nums, dp);
 
-        dp[n]= Math.max(take, notTake);
+  
 
-        return dp[n];
+        return dp[n]=Math.max(take, notTake);
     }
 }

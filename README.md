@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1861-rotating-the-box](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1861-rotating-the-box/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0860-lemonade-change/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0229-majority-element-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0455-assign-cookies/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

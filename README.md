@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0860-lemonade-change/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -348,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0455-assign-cookies/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

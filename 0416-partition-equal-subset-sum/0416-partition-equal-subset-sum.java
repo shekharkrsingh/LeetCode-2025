@@ -1,36 +1,39 @@
 class Solution {
     public boolean canPartition(int[] nums) {
-
         int n=nums.length;
         int sum=0;
-
-        for(int i: nums){
-            sum+=i;
+        for( int val: nums){
+            sum+=val;
         }
-        if((sum%2)!=0){
+
+        if(sum%2!=0){
             return false;
         }
+        int[][] dp =new int[n][(sum/2)+1];
 
-        int target=sum/2;
+        return sol(n-1, sum/2, nums, dp)==1;
+    }
 
-        boolean[] curr= new boolean[target+1];
-        boolean[] prev=new boolean[target+1];
-
-        prev[0]=true;
-
-        for(int i=1;i<=n;i++){
-            for(int j=0;j<=target;j++){
-                curr[j]=prev[j];
-                if(nums[i-1]<=j){
-                    curr[j]= curr[j] || prev[j-nums[i-1]];
-                }
-            }
-
-            for(int j=1;j<=target; j++){
-                prev[j]=curr[j];
-            }
+    private int sol(int i, int sum, int[] nums, int[][] dp){
+        if(sum==0){
+            return 1;
+        }
+        if(i<0){
+            return -1;
         }
 
-        return prev[target];
+        if(dp[i][sum]!=0){
+            return dp[i][sum];
+        }
+
+        int take=0;
+        if(sum-nums[i]>=0){
+            take=sol(i-1, sum-nums[i], nums, dp);
+        }
+        int notTake=sol(i-1, sum, nums, dp);
+
+        dp[i][sum]=take==1|| notTake==1?1:-1;
+
+        return dp[i][sum];
     }
 }

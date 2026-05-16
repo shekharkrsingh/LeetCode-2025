@@ -1,22 +1,22 @@
 class Solution {
     public int uniquePaths(int m, int n) {
-        int[][] dp = new int[m + 1][n + 1];
-        for (int i = 0; i < m; i++) {
-            dp[i][0] = 1;
+        int[] dp= new int[n];
+        if(n>m){
+            return uniquePaths(n, m);
         }
-        Arrays.fill(dp[0], 1);
+        Arrays.fill(dp, 1);
 
         for (int i = 1; i < m; i++) {
             for (int j = 1; j < n; j++) {
                 int up = 0;
                 int left = 0;
-                up = dp[i][j - 1];
-                left = dp[i - 1][j];
-                dp[i][j] = left + up;
+                up = dp[j - 1];
+                left = dp[j];
+                dp[j] = left + up;
             }
         }
 
-        return dp[m - 1][n - 1];
+        return dp[n-1];
 
     }
 

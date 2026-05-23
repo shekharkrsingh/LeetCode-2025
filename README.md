@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0494-target-sum/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0796-rotate-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |

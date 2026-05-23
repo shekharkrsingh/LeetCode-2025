@@ -9,7 +9,7 @@ class Solution {
             }
         }
 
-        if(cnt==1 && nums[0]<nums[n-1]){
+        if (cnt == 1 && nums[0] < nums[n - 1]) {
             return false;
         }
 

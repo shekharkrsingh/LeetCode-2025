@@ -9,16 +9,12 @@ class Solution {
         int first = 0;
         int second = 0;
 
-        int cnt = 0;
-
         while (first < n1 && second < n2) {
-            if (g[first] <= s[second]) {
-                cnt++;
+            if (g[first] <= s[second])
                 first++;
-            }
             second++;
         }
 
-        return cnt;
+        return first;
     }
 }

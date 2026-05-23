@@ -3,10 +3,19 @@ class Solution {
         int n=coins.length;
         int[]dp = new int[amount+1];
 
-        Arrays.fill(dp, -1);
+        dp[0]=0;
 
-        int val= sol(amount, coins, dp);
-        return val>=100000?-1:val;
+        for(int i=1;i<=amount; i++){
+            int min=100000;
+            for(int j=0;j<n;j++){
+                if(i-coins[j]>=0){
+                    min=Math.min(min, dp[i-coins[j]]+1);
+                }
+            }
+            dp[i]=min;
+        }
+
+        return dp[amount]>=100000?-1:dp[amount];
 
     }
 

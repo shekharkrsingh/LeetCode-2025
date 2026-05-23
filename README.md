@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0494-target-sum/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0455-assign-cookies/) | Easy |
+| [0494-target-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0079-word-search/) | Medium |
 | [0216-combination-sum-iii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0216-combination-sum-iii/) | Medium |
+| [0494-target-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0494-target-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |

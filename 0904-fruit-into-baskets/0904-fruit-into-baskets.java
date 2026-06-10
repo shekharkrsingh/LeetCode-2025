@@ -1,24 +1,27 @@
 class Solution {
     public int totalFruit(int[] fruits) {
-        int n = fruits.length;
-        Map<Integer, Integer> map = new HashMap<>();
-        int j = 0;
-        int max = 0;
-
-        for (int i = 0; i < n; i++) {
-            map.put(fruits[i], map.getOrDefault(fruits[i], 0) + 1);
-
-            while (map.size() > 2) {
-                map.put(fruits[j], map.get(fruits[j]) - 1);
-                if (map.get(fruits[j]) == 0) {
-                    map.remove(fruits[j]);
-                }
-                j++;
+        int numberofFruits = fruits.length;
+        Map<Integer, Integer> fruitsFreq = new HashMap<>();
+        int fruitCnt = 0;
+        int start = 0;
+        int maxFruitInBasket = 0;
+        for (int i = 0; i < numberofFruits; i++) {
+            if (!fruitsFreq.containsKey(fruits[i]) || fruitsFreq.get(fruits[i])==0) {
+                fruitsFreq.put(fruits[i], 1);
+                fruitCnt++;
+            } else {
+                fruitsFreq.put(fruits[i], fruitsFreq.get(fruits[i]) + 1);
             }
-
-            max = Math.max(max, i - j + 1);
+            if (fruitCnt > 2) {
+                fruitsFreq.put(fruits[start], fruitsFreq.get(fruits[start]) - 1);
+                if (fruitsFreq.get(fruits[start]) == 0) {
+                    fruitCnt--;
+                }
+                start++;
+            }
+            maxFruitInBasket = Math.max(maxFruitInBasket, i - start + 1);
         }
 
-        return max;
+        return maxFruitInBasket;
     }
 }

@@ -1,4 +1,3 @@
-
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -14,38 +13,30 @@
  *     }
  * }
  */
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
-    private int idx = 0;
+    private Integer idx = 0;
 
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        Map<Integer, Integer> map = new HashMap<>();
-
-        for (int i = 0; i < inorder.length; i++) {
-            map.put(inorder[i], i);
-        }
-
-        return build(preorder, 0, inorder.length - 1, map);
+        return buildActualTree(0, inorder.length - 1, preorder, inorder);
     }
 
-    private TreeNode build(int[] preorder,
-            int start,
-            int end,
-            Map<Integer, Integer> map) {
-
-        if (start > end)
+    private TreeNode buildActualTree(int start, int end, int[] preorder, int[] inorder) {
+        int validx = -1;
+        for (int i = start; i <= end; i++) {
+            if (inorder[i] == preorder[idx]) {
+                validx = i;
+                break;
+            }
+        }
+        if (validx == -1) {
             return null;
+        }
 
-        int rootVal = preorder[idx++];
-        TreeNode root = new TreeNode(rootVal);
+        TreeNode node = new TreeNode(preorder[idx]);
+        idx++;
+        node.left = buildActualTree(start, validx - 1, preorder, inorder);
+        node.right = buildActualTree(validx + 1, end, preorder, inorder);
 
-        int inorderIndex = map.get(rootVal);
-
-        root.left = build(preorder, start, inorderIndex - 1, map);
-        root.right = build(preorder, inorderIndex + 1, end, map);
-
-        return root;
+        return node;
     }
 }

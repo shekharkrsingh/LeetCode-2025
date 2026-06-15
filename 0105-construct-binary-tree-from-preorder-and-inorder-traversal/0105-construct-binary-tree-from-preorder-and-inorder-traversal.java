@@ -17,25 +17,27 @@ class Solution {
     private Integer idx = 0;
 
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        return buildActualTree(0, inorder.length - 1, preorder, inorder);
+        int n=inorder.length;
+        Map<Integer,Integer> map= new HashMap<>();
+        for(int i=0;i<n;i++){
+            map.put(inorder[i], i);
+        }
+        return buildActualTree(0, n-1, preorder, inorder, map);
     }
 
-    private TreeNode buildActualTree(int start, int end, int[] preorder, int[] inorder) {
-        int validx = -1;
-        for (int i = start; i <= end; i++) {
-            if (inorder[i] == preorder[idx]) {
-                validx = i;
-                break;
-            }
+    private TreeNode buildActualTree(int start, int end, int[] preorder, int[] inorder, Map<Integer, Integer> map) {
+        if(idx>=preorder.length){
+            return null;
         }
-        if (validx == -1) {
+        int validx=map.get(preorder[idx]);
+        if(validx<start || validx>end){
             return null;
         }
 
         TreeNode node = new TreeNode(preorder[idx]);
         idx++;
-        node.left = buildActualTree(start, validx - 1, preorder, inorder);
-        node.right = buildActualTree(validx + 1, end, preorder, inorder);
+        node.left = buildActualTree(start, validx - 1, preorder, inorder, map);
+        node.right = buildActualTree(validx + 1, end, preorder, inorder, map);
 
         return node;
     }

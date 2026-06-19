@@ -1,41 +1,28 @@
 class Solution {
     public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
-
-        int cnt = 0;
-        boolean[][] visited = new boolean[n][n];
-        Queue<int[]> q = new LinkedList<>();
-
+        boolean[] visited = new boolean[n];
+        Queue<Integer> q = new LinkedList<>();
+        int noOfProv = 0;
         for (int i = 0; i < n; i++) {
-            Arrays.fill(visited[i], false);
-        }
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (!visited[i][j] && isConnected[i][j] == 1) {
-                    cnt++;
-                    visited[i][j] = true;
-                    q.offer(new int[] { i, j });
-                    bfs(isConnected, n, visited, q);
-                }
+            if (!visited[i]) {
+                noOfProv++;
+                q.offer(i);
+                visited[i] = true;
+                bfs(isConnected, q, visited, n);
             }
         }
-        return cnt;
+
+        return noOfProv;
     }
 
-    private void bfs(int[][] isConnected, int n, boolean[][] visited, Queue<int[]> q) {
+    private void bfs(int[][] isConnected, Queue<Integer> q, boolean[] visited, int n) {
         while (!q.isEmpty()) {
-            int[] arr = q.poll();
-            int i = arr[0];
-            int j = arr[1];
-            for (int k = 0; k < n; k++) {
-                if (isConnected[i][k] == 1 && !visited[i][k]) {
-                    visited[i][k] = true;
-                    q.offer(new int[] { i, k });
-                }
-                if (isConnected[k][j] == 1 && !visited[k][j]) {
-                    visited[k][j] = true;
-                    q.offer(new int[] { k, j });
+            int node = q.poll();
+            for (int i = 0; i < n; i++) {
+                if (isConnected[node][i] == 1 && !visited[i]) {
+                    visited[i] = true;
+                    q.offer(i);
                 }
             }
         }

@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0130-surrounded-regions](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0130-surrounded-regions/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0547-number-of-provinces/) | Medium |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0136-single-number/) | Easy |
@@ -339,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0085-maximal-rectangle/) | Hard |
+| [0130-surrounded-regions](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0130-surrounded-regions/) | Medium |
 | [0733-flood-fill](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0733-flood-fill/) | Easy |
 | [1861-rotating-the-box](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1861-rotating-the-box/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -433,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0547-number-of-provinces/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |

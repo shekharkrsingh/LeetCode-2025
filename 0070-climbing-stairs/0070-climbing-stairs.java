@@ -1,14 +1,15 @@
 class Solution {
     public int climbStairs(int n) {
-        int[] dp = new int[n + 1];
         if (n == 1 || n == 2)
             return n;
-        dp[1] = 1;
-        dp[2] = 2;
+        int a = 1;
+        int b = 2;
         for (int i = 3; i <= n; i++) {
-            dp[i] = dp[i - 1] + dp[i - 2];
+            int temp=a+b;
+            a=b;
+            b=temp;
         }
-        return dp[n];
+        return b;
     }
 
     private int countWay(int n, int[] dp) {

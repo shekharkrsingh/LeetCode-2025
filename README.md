@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0189-rotate-array/) | Medium |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0162-find-peak-element/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0300-longest-increasing-subsequence/) | Medium |

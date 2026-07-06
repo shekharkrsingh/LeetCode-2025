@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0231-power-of-two/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1922-count-good-numbers/) | Medium |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0231-power-of-two/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0371-sum-of-two-integers/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Union-Find

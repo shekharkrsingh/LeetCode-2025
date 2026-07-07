@@ -1,33 +1,50 @@
 class Solution {
     public int change(int amount, int[] coins) {
-        int n = coins.length;
-        int[][] dp = new int[n][amount + 1];
-        for (int i = 0; i < n; i++) {
-            Arrays.fill(dp[i], -1);
+        int n=coins.length;
+        int[] prev= new int[amount+1];
+        int[] curr= new int[amount+1];
+
+        prev[0]=1;
+        curr[0]=1;
+
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=amount;j++){
+                int count=0;
+                if(coins[i-1]<=j){
+                    count+=curr[j-coins[i-1]];
+                }
+                count+=prev[j];
+                curr[j]=count;
+            }
+            for(int j=1;j<=amount;j++){
+                prev[j]=curr[j];
+            }
         }
 
-        return countWay(n - 1, amount, n, coins, dp);
+        return prev[amount];
     }
 
-    private int countWay(int idx, int amount, int n, int[] coins, int[][] dp) {
-        if (amount == 0) {
+    private int sol(int i, int amount, int[] coins, int n, int[][] dp){
+        if(amount==0){
             return 1;
         }
-        if (idx < 0 || amount < 0) {
+
+        if(i<0){
             return 0;
         }
 
-        if (dp[idx][amount] != -1) {
-            return dp[idx][amount];
+        if(dp[i][amount]!=-1){
+            return dp[i][amount];
         }
 
-        int take = 0;
-        if (amount - coins[idx] >= 0) {
-            take = countWay(idx, amount - coins[idx], n, coins, dp);
-        }
-        int notTake = countWay(idx - 1, amount, n, coins, dp);
+        int count=0;
 
-        dp[idx][amount] = take + notTake;
-        return dp[idx][amount];
+        if(coins[i]<=amount)
+        count+= sol(i, amount-coins[i], coins, n, dp);
+        count+=sol(i-1, amount, coins, n, dp);
+
+        dp[i][amount]=count;
+
+        return count;
     }
 }

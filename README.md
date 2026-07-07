@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0518-coin-change-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0518-coin-change-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0518-coin-change-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0704-binary-search/) | Easy |

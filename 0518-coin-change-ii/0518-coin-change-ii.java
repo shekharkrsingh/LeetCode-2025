@@ -1,50 +1,43 @@
 class Solution {
     public int change(int amount, int[] coins) {
-        int n=coins.length;
-        int[] prev= new int[amount+1];
-        int[] curr= new int[amount+1];
-
-        prev[0]=1;
-        curr[0]=1;
-
+        int n = coins.length;
+        int[][] dp = new int[n+1][amount + 1];
+        for(int i=0;i<=n;i++){
+            dp[i][0]=1;
+        }
         for(int i=1;i<=n;i++){
-            for(int j=1;j<=amount;j++){
-                int count=0;
-                if(coins[i-1]<=j){
-                    count+=curr[j-coins[i-1]];
+            for(int j=1;j<=amount; j++){
+                int take=0;
+                if(j-coins[i-1]>=0){
+                    take=dp[i][j-coins[i-1]];
                 }
-                count+=prev[j];
-                curr[j]=count;
-            }
-            for(int j=1;j<=amount;j++){
-                prev[j]=curr[j];
+                int notTake=dp[i-1][j];
+                dp[i][j]=take+notTake;
             }
         }
 
-        return prev[amount];
+        return dp[n][amount];
     }
 
-    private int sol(int i, int amount, int[] coins, int n, int[][] dp){
-        if(amount==0){
+    private int countWay(int idx, int amount, int n, int[] coins, int[][] dp) {
+        if (amount == 0) {
             return 1;
         }
-
-        if(i<0){
+        if (idx < 0) {
             return 0;
         }
 
-        if(dp[i][amount]!=-1){
-            return dp[i][amount];
+        if (dp[idx][amount] != -1) {
+            return dp[idx][amount];
         }
 
-        int count=0;
+        int take = 0;
+        if (amount - coins[idx] >= 0) {
+            take = countWay(idx, amount - coins[idx], n, coins, dp);
+        }
+        int notTake = countWay(idx - 1, amount, n, coins, dp);
 
-        if(coins[i]<=amount)
-        count+= sol(i, amount-coins[i], coins, n, dp);
-        count+=sol(i-1, amount, coins, n, dp);
-
-        dp[i][amount]=count;
-
-        return count;
+        dp[idx][amount] = take + notTake;
+        return dp[idx][amount];
     }
 }

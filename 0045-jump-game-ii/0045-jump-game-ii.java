@@ -1,25 +1,20 @@
 class Solution {
     public int jump(int[] nums) {
+        int l = 0;
+        int r = 0;
         int n = nums.length;
-        int[] dp = new int[n];
-        Arrays.fill(dp, -1);
-        return sol(0, nums, n, dp);
-    }
+        int jump = 0;
 
-    private int sol(int idx, int[] nums, int n, int[] dp) {
-        if (idx == n - 1) {
-            return 0;
+        while (r < n - 1) {
+            int farthest = 0;
+            for (int i = l; i <= r; i++) {
+                farthest = Math.max(farthest, i + nums[i]);
+            }
+            l = r + 1;
+            r = farthest;
+            jump++;
         }
-        if (dp[idx] != -1) {
-            return dp[idx];
-        }
-        int jp = 100001;
-        for (int i = 1; i <= nums[idx]; i++) {
-            if(idx+i<n)
-            jp = Math.min(sol(idx + i, nums, n, dp), jp);
-        }
-        dp[idx] = jp + 1;
-        return dp[idx];
 
+        return jump;
     }
 }

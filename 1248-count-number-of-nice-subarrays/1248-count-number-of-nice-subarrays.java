@@ -1,29 +1,28 @@
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
-        return numberOfSubarrysWithMaxKOdd(nums, k) - numberOfSubarrysWithMaxKOdd(nums, k - 1);
+        if (k == 0) {
+            return sol(nums, k);
+        }
+        return sol(nums, k) - sol(nums, k - 1);
     }
 
-    private int numberOfSubarrysWithMaxKOdd(int[] nums, int k) {
-        if (k < 0 || nums == null) {
-            return 0;
-        }
-        int length = nums.length;
-        int oddCount = 0;
+    private int sol(int[] nums, int k) {
+        int n = nums.length;
         int start = 0;
-        int totalSubarryWithKOdd = 0;
-        for (int i = 0; i < length; i++) {
+        int cnt = 0;
+        int oddCnt = 0;
+        for (int i = 0; i < n; i++) {
             if (nums[i] % 2 != 0) {
-                oddCount++;
+                oddCnt++;
             }
-            while (oddCount > k) {
+            while (oddCnt > k) {
                 if (nums[start] % 2 != 0) {
-                    oddCount--;
+                    oddCnt--;
                 }
                 start++;
             }
-            totalSubarryWithKOdd += i - start + 1;
+            cnt += i - start + 1;
         }
-
-        return totalSubarryWithKOdd;
+        return cnt;
     }
 }

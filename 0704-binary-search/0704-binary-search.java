@@ -1,14 +1,8 @@
 class Solution {
     public int search(int[] nums, int target) {
-        return searchElementInAnArray(nums, target);
-    }
-
-    private int searchElementInAnArray(int[] nums, int target) {
-        int length = nums.length;
+        int n = nums.length;
         int start = 0;
-        int end = length - 1;
-        int index = -1;
-
+        int end = n - 1;
         while (start <= end) {
             int mid = start + (end - start) / 2;
             if (nums[mid] == target) {
@@ -20,6 +14,7 @@ class Solution {
                 start = mid + 1;
             }
         }
-        return index;
+
+        return -1;
     }
 }

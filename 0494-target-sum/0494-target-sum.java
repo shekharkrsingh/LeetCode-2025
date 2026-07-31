@@ -9,9 +9,9 @@ class Solution {
             sum += x;
         }
 
-        if (Math.abs(target) > sum) {
-            return 0;
-        }
+        // if (Math.abs(target) > sum) {
+        //     return 0;
+        // }
 
         Integer[][] dp = new Integer[n][2 * sum + 1];
 

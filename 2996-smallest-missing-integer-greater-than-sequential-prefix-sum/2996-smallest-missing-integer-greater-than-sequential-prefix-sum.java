@@ -1,24 +1,31 @@
 class Solution {
     public int missingInteger(int[] nums) {
         int n = nums.length;
-        Set<Integer> set = new HashSet<>();
-        int pref = nums[0];
-        for (int i = 0; i < n; i++) {
-            set.add(nums[i]);
-        }
+
+        int sum = nums[0];
 
         for (int i = 1; i < n; i++) {
-            if (i == n || nums[i] - 1 != nums[i - 1]) {
-                while (set.contains(pref)) {
-                    pref++;
-                }
-                return pref;
+            if (nums[i] != nums[i - 1] + 1) {
+                break;
             }
-            pref += nums[i];
+            sum += nums[i];
         }
-        if (n == 1)
-            return ++pref;
 
-        return pref;
+        for (int x = sum; x <= sum + n; x++) {
+            boolean found = false;
+
+            for (int num : nums) {
+                if (num == x) {
+                    found = true;
+                    break;
+                }
+            }
+
+            if (!found) {
+                return x;
+            }
+        }
+
+        return sum + n + 1;
     }
 }

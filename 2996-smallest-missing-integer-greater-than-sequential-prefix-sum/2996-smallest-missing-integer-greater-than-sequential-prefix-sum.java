@@ -10,22 +10,22 @@ class Solution {
             }
             sum += nums[i];
         }
+        for (int i = 0; i < n; i++) {
+            int num = Math.abs(nums[i]);
 
-        for (int x = sum; x <= sum + n; x++) {
-            boolean found = false;
-
-            for (int num : nums) {
-                if (num == x) {
-                    found = true;
-                    break;
+            if (num >= sum && num <= sum + n) {
+                int index = num - sum;
+                if (index < n) {
+                    nums[index] = -Math.abs(nums[index]);
                 }
             }
-
-            if (!found) {
-                return x;
+        }
+        for (int i = 0; i < n; i++) {
+            if (nums[i] >= 0) {
+                return sum + i;
             }
         }
 
-        return sum + n + 1;
+        return sum + n;
     }
 }

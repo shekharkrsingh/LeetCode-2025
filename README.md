@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Divide and Conquer

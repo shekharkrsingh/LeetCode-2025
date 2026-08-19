@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0860-lemonade-change/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
@@ -451,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0231-power-of-two/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0371-sum-of-two-integers/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Union-Find

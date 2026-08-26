@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |

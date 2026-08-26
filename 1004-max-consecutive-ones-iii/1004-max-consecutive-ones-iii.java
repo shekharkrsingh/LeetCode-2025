@@ -14,9 +14,7 @@ class Solution {
                 }
                 start++;
             }
-            if (cnt <= k) {
-                maxLength = Math.max(i - start + 1, maxLength);
-            }
+            maxLength = Math.max(i - start + 1, maxLength);
         }
 
         return maxLength;

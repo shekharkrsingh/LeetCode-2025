@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1861-rotating-the-box/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |

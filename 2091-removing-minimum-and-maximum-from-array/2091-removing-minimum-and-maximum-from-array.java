@@ -17,16 +17,13 @@ class Solution {
                 maxVal = nums[i];
             }
         }
-        int maxOfMax=Math.max(min, max);
-        int minOfMin=Math.min(min, max);
-        min=minOfMin;
-        max=maxOfMax;
-
-        System.out.println(Math.max(min, max)+" "+ (n - 1 - Math.min(max, min)));
+        int maxOfMax = Math.max(min, max);
+        int minOfMin = Math.min(min, max);
+        min = minOfMin;
+        max = maxOfMax;
 
         int minDis = Math.min(Math.max(min, max), n - 1 - Math.min(max, min));
-        System.out.println(min+" "+(n-max));
-        res = Math.min(min + n - max+1 , minDis+1);
+        res = Math.min(min + n - max + 1, minDis + 1);
 
         return res;
     }

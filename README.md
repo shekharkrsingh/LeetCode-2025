@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0733-flood-fill/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1306-jump-game-iii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1345-jump-game-iv/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1345-jump-game-iv](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1306-jump-game-iii](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1345-jump-game-iv/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |

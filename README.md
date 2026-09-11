@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2965-find-missing-and-repeated-values](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2965-find-missing-and-repeated-values](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -438,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -492,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/0231-power-of-two/) | Easy |
 | [1922-count-good-numbers](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/1922-count-good-numbers/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/shekharkrsingh/LeetCode-2025/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
